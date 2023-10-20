@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/login1Fragment"
+        android:name="com.ai4access.app.Login1Fragment"
+        android:label="fragment_login1"
+        tools:layout="@layout/fragment_login1" >
+        <action
+            android:id="@+id/action_login1Fragment_to_signup1Fragment"
+            app:destination="@id/signup1Fragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_left"
+            app:popUpTo="@id/startFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.ai4access.app.StartFragment"
+        android:label="fragment_start"
+        tools:layout="@layout/fragment_start" >
+        <action
+            android:id="@+id/action_startFragment_to_login1Fragment"
+            app:destination="@id/login1Fragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_startFragment_to_signup1Fragment"
+            app:destination="@id/signup1Fragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/signup1Fragment"
+        android:name="com.ai4access.app.Signup1Fragment"
+        android:label="fragment_signup1"
+        tools:layout="@layout/fragment_signup1" />
+</navigation>
