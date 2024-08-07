@@ -2,6 +2,7 @@
 To our wonderful team, 
 
 Team Members : Dawik D, Atharv K, Anoushka T, Abhay B, Asmit B, Jefferson L
+
 Team Mentor: Aryan Chowdhary
 
 # Preview: 
