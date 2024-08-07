@@ -6,7 +6,7 @@ Team Mentor: Aryan Chowdhary
 
 # Preview: 
 You can find our project showcased with the New York Junior Academy of the Sciences (https://www.nyas.org/program-category/junior-academy/), where we won first out of 142 participating teams in the Cognitive Challenges. This project is sponsored by NEOM, and we are trying to get in contact for integration. Otherwise, feel free to use any it. 
-There is a video of the demo in practice working (real-time proof of product and concept) at our presentation. We are still working on it, but you can find the canva at https://www.canva.com/design/DAF5YyDOnU8/ZZcG02mAjOyL51ecjP75dg/edit?utm_content=DAF5YyDOnU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+There is a video of the demo in practice working (real-time proof of product and concept) at our presentation. We are still working on it, but you can find the canva at [https://www.canva.com/design/DAF5YyDOnU8/ZZcG02mAjOyL51ecjP75dg/edit?utm_content=DAF5YyDOnU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF5YyDOnU8/ZZcG02mAjOyL51ecjP75dg/edit)
 
 # Task at Hand
 ## Problem Statement: 
