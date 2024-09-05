@@ -5,7 +5,7 @@ Team Members: Dawik D, Jefferson L., Atharv K, Anoushka T, Abhay B, Asmit B,
 
 Team Mentor: Aryan Chowdhary
 
-Special thanks to especially for the work of Atharv K. 
+Special thanks to especially for the work of Atharv K., who contributed tremendously to the technicalities. 
 
 # Preview: 
 You can find our project showcased with the New York Junior Academy of the Sciences (https://www.nyas.org/program-category/junior-academy/), where we won first out of 142 participating teams in the Cognitive Challenges. This project is sponsored by NEOM, and we are trying to get in contact for integration. Otherwise, feel free to use any it. 
